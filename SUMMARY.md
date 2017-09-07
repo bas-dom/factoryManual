@@ -16,10 +16,13 @@
 
 * [第3部分 调试工具](factory/debug_tool.md)
   * [项目调试](factory/project_cx.md)
-  * [如何调试策略](factory/ru-he-diao-shi-ce-lve.md)
-  * 如何调试策略
 
 ## 规范
 
 * [第4部分 点名规范](factory/standard_point_rule.md)
+
+## 策略配置与调试
+
+* [如何调试策略](factory/ru-he-diao-shi-ce-lve.md)
+* [如何新建和启动策略](factory/ru-he-xin-jian-ce-lve.md)
 
