@@ -2,7 +2,7 @@
 
 ## 组态
 
-* [Introduction](README.md)
+* [概述](README.md)
 * [第1部分 基本功能](factory/basic.md)
   * [点表管理](factory/point_manage.md)
   * [绘制界面](factory/flow.md)
@@ -23,6 +23,7 @@
 
 ## 策略配置与调试
 
-* [如何调试策略](factory/ru-he-diao-shi-ce-lve.md)
 * [如何新建和启动策略](factory/ru-he-xin-jian-ce-lve.md)
+* [如何调试策略](factory/ru-he-diao-shi-ce-lve.md)
+* [如何升级策略核文件](factory/ru-he-sheng-ji-ce-lve-he-wen-jian.md)
 
