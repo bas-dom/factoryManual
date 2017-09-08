@@ -11,6 +11,8 @@
   * [导入页面](factory/page_import.md)
 * [第2部分 进阶功能](factory/basic.md)
   * [文件查错](factory/Factory_check_file.md)
+* OPC点位接入
+  * [OPC通讯测试](opctong-xun-ce-shi.md)
 
 ## 调试
 
