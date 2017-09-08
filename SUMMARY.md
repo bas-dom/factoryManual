@@ -20,8 +20,9 @@
   * [Bacnet点位扫描与导出](bacnetdian-wei-dao-chu.md)
   * [点表配置说明](dian-biao-pei-zhi-shuo-mi-guo-ni.md)
 * [Modbus点位接入](modbusdian-wei-jie-ru.md)
+  * [modbus通讯调试](modbusdian-wei-jie-ru/modbustong-xun-diao-shi.md)
   * [点表配置说明](modbusdian-wei-jie-ru/dian-biao-pei-zhi-shuo-ming.md)
-  * modbus通讯调试
+
 
 ## 调试
 
