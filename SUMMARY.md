@@ -16,7 +16,9 @@
   * [OPC点位扫描和导出](opcdian-wei-sao-miao-he-dao-chu.md)
   * [OPC点位配置格式](opcdian-wei-pei-zhi-ge-shi.md)
 * Bacnet点位接入
+  * Bacnet通讯测试
   * [点表配置说明](dian-biao-pei-zhi-shuo-mi-guo-ni.md)
+
 * [Modbus点位接入](modbusdian-wei-jie-ru.md)
   * [点表配置说明](modbusdian-wei-jie-ru/dian-biao-pei-zhi-shuo-ming.md)
 
