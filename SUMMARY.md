@@ -14,6 +14,7 @@
 * [OPC点位接入](opcdian-wei-jie-ru.md)
   * [OPC通讯测试](opctong-xun-ce-shi.md)
   * [OPC点位扫描和导出](opcdian-wei-sao-miao-he-dao-chu.md)
+  * [OPC点位配置格式](opcdian-wei-pei-zhi-ge-shi.md)
 
 ## 调试
 
